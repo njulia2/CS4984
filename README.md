@@ -62,7 +62,7 @@ README.md
       }
       </script>
       ```
-      Post the comment and click on the button in the comment. A pop up that says “Alert(1) will show up.
+      Post the comment and click on the button in the comment. A pop up that says “Alert(1)" will show up.
 
       References: 
       https://wpvulndb.com/vulnerabilities/8489 
